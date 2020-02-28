@@ -1,5 +1,7 @@
 # README
 
+This is a first rails app for the "The Complete Ruby on Rails Developer Course" of udemy
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
